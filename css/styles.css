@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+}
+
+header {
+    height: 21.25em;
+    background-color: darkred;
+}
+
+main {
+    margin-left: 15%;
+    background-color: rgb(135, 168, 153);
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+nav {
+    position: fixed;
+    height: 200px;
+    width: 15%;
+    background-color: darkmagenta;
+}
+
+footer {
+    height: 10em;
+    background-color: darkred;
+}
